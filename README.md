@@ -32,32 +32,6 @@ Open to **AI Engineering / ML Engineering internships** in Germany or remote.
 
 ---
 
-## Featured projects
-
-### 🧠 [TeamCLAW](https://github.com/gsj-rifat/TeamCLAW) — AI-Powered Slack Knowledge Extractor
-Built a multi-tenant AI backend that extracts structured decisions, todos, and facts from Slack messages using LLM prompt engineering (Llama 3.3 70B via Groq).  
-Designed a hexagonal architecture with async FastAPI pipelines, HMAC webhook verification, noise filtering, and optional Jira ticket sync.  
-Deployed to production on Render with PostgreSQL (Supabase), GitHub Actions CI, and full multi-tenant data isolation.  
-`FastAPI · Groq · PostgreSQL · Slack API · Hexagonal Architecture · GitHub Actions CI`
-
-### 🏥 [EEG Epilepsy Spike Detection](https://github.com/gsj-rifat/epilepsy-spike-detection-with-cnn-model-and-.mat-EEG-file) — Medical AI
-Automatic detection of epilepsy-typical spikes in EEG with CNN models.  
-Developed and optimized CNN models for EEG-based detection of epilepsy spikes (**98.6% accuracy**); preprocessing with MNE-Python, noise filtering, and feature extraction; collaboration with clinical experts for validation and model improvement.  
-*Master's thesis at CAU Kiel · Research Assistant work (Dec 2023 – Jun 2024).*  
-`PyTorch · MNE-Python · CNN · Signal Processing · Medical AI`
-
-### 🏠 [Personalized Real Estate Agent](https://github.com/gsj-rifat/Personalized_Real_Estate_Agent)
-Intelligent recommendation system with Large Language Models (LLMs) and vector search to match user preferences with suitable offers.  
-Semantic search and personalised result generation using a modular, scalable architecture with Python, LangChain, and the OpenAI API.  
-`LangChain · OpenAI API · Vector Search · Python`
-
-### ⚡ [Lightweight Fine-Tuning with PEFT](https://github.com/gsj-rifat/Lightweight-Fine-Tuning-with-PEFT)
-Efficient fine-tuning of a pre-trained language model for text classification using LoRA.  
-Fine-tuned GPT-2 on a text classification task using Parameter-Efficient Fine-Tuning (LoRA); compared base vs. fine-tuned models using Hugging Face Trainer.  
-`PEFT · LoRA · Hugging Face · GPT-2`
-
----
-
 ## Experience & education
 
 | | |
