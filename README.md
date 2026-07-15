@@ -51,11 +51,4 @@ Open to **AI Engineering / ML Engineering internships** in Germany or remote.
 
 ---
 
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsjrifat/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gsjrifat@gmail.com)
-
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gsj-rifat&radius=16&theme=react-dark&area=true&order=5)
