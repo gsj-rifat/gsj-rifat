@@ -49,7 +49,3 @@ Open to **AI Engineering / ML Engineering internships** in Germany or remote.
 
 - Finalizing M.Sc. at CAU Kiel (expected Aug 2026) — thesis: *Automatic Detection of epilepsy-typical Spikes in EEG*
 - Building LLM-powered tools and production backends
-
----
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gsj-rifat&radius=16&theme=react-dark&area=true&order=5)
