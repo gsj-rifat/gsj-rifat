@@ -54,4 +54,4 @@ Open to **AI Engineering / ML Engineering internships** in Germany or remote.
 
 ## GitHub activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gsj-rifat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://raw.githubusercontent.com/gsj-rifat/gsj-rifat/output/activity-graph.svg)
