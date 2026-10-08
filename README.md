@@ -47,7 +47,6 @@ Open to **AI Engineering / ML Engineering internships** in Germany or remote.
 
 ## Currently
 
-- Finalizing M.Sc. at CAU Kiel (expected Aug 2026) — thesis: *Automatic Detection of epilepsy-typical Spikes in EEG*
 - Building LLM-powered tools and production backends
 
 ---
