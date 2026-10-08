@@ -4,7 +4,7 @@
 
 M.Sc. student in **Electrical and Information Engineering** at [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/) (Nov 2020 – August 2026).
 
-Open to **AI Engineering / ML Engineering internships** in Germany or remote.
+Open to **IT Support and Network Engineer / AI Engineering** in Germany or remote.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsjrifat/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gsjrifat@gmail.com)
